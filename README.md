@@ -22,9 +22,13 @@ The user types in their name, for example:
 The program outputs a cheer in the following format:
 
 > Give me an... A
+
 > Give me a... B
+
 > Give me a... B
+
 > Give me a... Y
+
 > Abby’s just GRAND!
 
 * Follow the proper grammatical for a and an. The rule is based on whether the spelling of a letter would begin with a vowel.
